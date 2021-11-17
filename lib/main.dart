@@ -38,7 +38,10 @@ class _PlayListState extends State<PlayList> {
   final List<Color> colores = [
     Colors.blue.shade100,
     Colors.red.shade200,
-    Colors.purple.shade100
+    Colors.purple.shade100,
+    Colors.purple.shade200,
+    Colors.pink.shade300,
+    Colors.green.shade100
   ];
 
   @override
